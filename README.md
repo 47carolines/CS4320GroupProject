@@ -2,6 +2,8 @@
 A repository for Group Three's Semester Project for the class CS 4320
 
 [How to deploy code on our server](https://gist.github.com/47carolines/34d466c079adc7a000696a0070e22595)
+## Video Presentation
+[![YouTube Link](https://img.youtube.com/vi/Ie8SfK3B_kk/0.jpg)](https://www.youtube.com/watch?v=Ie8SfK3B_kk)
 # Augur
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
